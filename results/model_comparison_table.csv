@@ -1,0 +1,4 @@
+Experiment,Hidden Layer Configuration,Activation Function,Epochs,Test Accuracy
+Baseline Model,16 Neurons,ReLU,30,0.9825000166893005
+Increased Neurons,32 Neurons,ReLU,30,0.9825000166893005
+Tanh Activation,16 Neurons,Tanh,30,0.9825000166893005
